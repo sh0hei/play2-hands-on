@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 logs
 target
 /.idea
@@ -7,7 +6,7 @@ target
 /.project
 /.settings
 /RUNNING_PID
-=======
+
 # Ignore Play! working directory #
 bin/
 /db
@@ -25,4 +24,3 @@ server.pid
 *.eml
 /dist/
 .cache
->>>>>>> 4daaa78d75fa0fbfb30a78a3743be2e0c24c3280
